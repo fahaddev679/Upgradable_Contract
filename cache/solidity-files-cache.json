@@ -1,0 +1,77 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "C:\\Users\\NC\\All Projects\\Proxy Contract\\contracts\\NUM1.sol": {
+      "lastModificationDate": 1695622799353,
+      "contentHash": "7e750adabe629b84e66b033b0e3b6ce5",
+      "sourceName": "contracts/NUM1.sol",
+      "solcConfig": {
+        "version": "0.8.19",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata",
+                "storageLayout"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "0.8.19"
+      ],
+      "artifacts": [
+        "NUM1"
+      ]
+    },
+    "C:\\Users\\NC\\All Projects\\Proxy Contract\\contracts\\NUM2.sol": {
+      "lastModificationDate": 1695626087483,
+      "contentHash": "abe820b9619b146f384be76b40f42f2f",
+      "sourceName": "contracts/NUM2.sol",
+      "solcConfig": {
+        "version": "0.8.19",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata",
+                "storageLayout"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "0.8.19"
+      ],
+      "artifacts": [
+        "NUM2"
+      ]
+    }
+  }
+}
